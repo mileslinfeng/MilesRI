@@ -1,0 +1,16 @@
+{
+  "timestamp": 1762540315612,
+  "data": {
+    "symbol": "AAPL",
+    "lastReportDate": "2025-10-30",
+    "fiscalDateEnding": "2025-09-30",
+    "reportedEPS": 1.85,
+    "estimatedEPS": 1.76,
+    "surprise": 5.1136,
+    "reportedRevenue": null,
+    "estimatedRevenue": null,
+    "revenueSurprise": null,
+    "nextEarningsDate": "2026-01-28",
+    "aiCode": "beat"
+  }
+}

@@ -1,0 +1,149 @@
+{
+  "timestamp": 1762547972333,
+  "data": [
+    {
+      "fiscalDateEnding": "2025-06-30",
+      "reportedDate": "2025-09-02",
+      "reportedEPS": 0.1949,
+      "estimatedEPS": 0.1733,
+      "surprise": 12.4639,
+      "revenue": 87060000,
+      "aiCode": "beat"
+    },
+    {
+      "fiscalDateEnding": "2025-03-31",
+      "reportedDate": "2025-05-20",
+      "reportedEPS": 0.217,
+      "estimatedEPS": 0.18,
+      "surprise": 20.5556,
+      "revenue": 84029000,
+      "aiCode": "beat"
+    },
+    {
+      "fiscalDateEnding": "2024-12-31",
+      "reportedDate": "2025-03-19",
+      "reportedEPS": 0.6655,
+      "estimatedEPS": 0.035,
+      "surprise": 1801.4286,
+      "revenue": 91255000,
+      "aiCode": "beat"
+    },
+    {
+      "fiscalDateEnding": "2024-09-30",
+      "reportedDate": "2024-12-04",
+      "reportedEPS": -0.108,
+      "estimatedEPS": -0.02,
+      "surprise": -440,
+      "revenue": 76292000,
+      "aiCode": "miss"
+    },
+    {
+      "fiscalDateEnding": "2024-06-30",
+      "reportedDate": "2024-09-03",
+      "reportedEPS": -0.38,
+      "estimatedEPS": -0.06,
+      "surprise": -533.3333,
+      "revenue": 74420000,
+      "aiCode": "miss"
+    },
+    {
+      "fiscalDateEnding": "2024-03-31",
+      "reportedDate": "2024-05-22",
+      "reportedEPS": 0.21,
+      "estimatedEPS": -0.06,
+      "surprise": 450,
+      "revenue": null,
+      "aiCode": "beat"
+    },
+    {
+      "fiscalDateEnding": "2023-12-31",
+      "reportedDate": "2024-02-26",
+      "reportedEPS": -0.15,
+      "estimatedEPS": 0.06,
+      "surprise": -350,
+      "revenue": null,
+      "aiCode": "miss"
+    },
+    {
+      "fiscalDateEnding": "2023-09-30",
+      "reportedDate": "2023-12-13",
+      "reportedEPS": 0.37,
+      "estimatedEPS": -0.07,
+      "surprise": 628.5714,
+      "revenue": null,
+      "aiCode": "beat"
+    },
+    {
+      "fiscalDateEnding": "2023-06-30",
+      "reportedDate": "2023-08-30",
+      "reportedEPS": 0.27,
+      "estimatedEPS": -0.04,
+      "surprise": 775,
+      "revenue": null,
+      "aiCode": "beat"
+    },
+    {
+      "fiscalDateEnding": "2023-03-31",
+      "reportedDate": "2023-05-25",
+      "reportedEPS": -0.04,
+      "estimatedEPS": 0.06,
+      "surprise": -166.6667,
+      "revenue": null,
+      "aiCode": "miss"
+    },
+    {
+      "fiscalDateEnding": "2022-12-31",
+      "reportedDate": "2023-03-14",
+      "reportedEPS": 0.18,
+      "estimatedEPS": 0.17,
+      "surprise": 5.8824,
+      "revenue": null,
+      "aiCode": "beat"
+    },
+    {
+      "fiscalDateEnding": "2022-09-30",
+      "reportedDate": "2022-11-29",
+      "reportedEPS": 0.47,
+      "estimatedEPS": 0.18,
+      "surprise": 161.1111,
+      "revenue": null,
+      "aiCode": "beat"
+    },
+    {
+      "fiscalDateEnding": "2022-06-30",
+      "reportedDate": "2022-08-24",
+      "reportedEPS": 0.29,
+      "estimatedEPS": 0.3,
+      "surprise": -3.3333,
+      "revenue": null,
+      "aiCode": "neutral"
+    },
+    {
+      "fiscalDateEnding": "2022-03-31",
+      "reportedDate": "2022-05-11",
+      "reportedEPS": 0.79,
+      "estimatedEPS": 0.41,
+      "surprise": 92.6829,
+      "revenue": null,
+      "aiCode": "beat"
+    },
+    {
+      "fiscalDateEnding": "2021-12-31",
+      "reportedDate": "2022-03-09",
+      "reportedEPS": 0.69,
+      "estimatedEPS": 0.44,
+      "surprise": 56.8182,
+      "revenue": null,
+      "aiCode": "beat"
+    },
+    {
+      "fiscalDateEnding": "2021-09-30",
+      "reportedDate": "2021-11-18",
+      "reportedEPS": 0.41,
+      "estimatedEPS": 0.64,
+      "surprise": -35.9375,
+      "revenue": null,
+      "aiCode": "miss"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "timestamp": 1762547955123,
+  "data": {
+    "symbol": "KNOP",
+    "date": "2025-11-20",
+    "eps": 0.2516,
+    "revenue": 89885460,
+    "time": "N/A",
+    "source": "Finnhub",
+    "marketCap": 345185120,
+    "price": 9.88,
+    "sector": "Energy",
+    "lastReportDate": "2025-09-02",
+    "fiscalDateEnding": "2025-06-30",
+    "reportedEPS": 0.1949,
+    "estimatedEPS": 0.1733,
+    "surprise": 12.4639,
+    "reportedRevenue": 87060000,
+    "estimatedRevenue": null,
+    "revenueSurprise": null,
+    "nextEarningsDate": "2025-11-20",
+    "aiCode": "beat",
+    "revenueEstimate": 89885460,
+    "epsEstimate": 0.2516,
+    "reportDate": "2025-11-20"
+  }
+}
