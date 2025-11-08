@@ -1,8 +1,8 @@
-// client/src/api.js
-const BASE = window.location.hostname.includes("github.io")
-  ? "https://api.flinai.com"  // ✅ 改为 HTTPS 域名
-  : "http://localhost:5050";   // ✅ 本地开发
-
+const isGithubPages = window.location.hostname.endsWith("github.io");
+const BASE = isGithubPages
+  ? "https://api.flinai.com"    // ✅ GitHub Pages / 生产环境
+  : "https://api.flinai.com";   // ✅ 本地开发也统一走 HTTPS
+// （这样即使本地用 HTTPS，浏览器也不会出现 mixed content）
 
 export const api = {
   getWatchlist: async () => (await fetch(`${BASE}/api/watchlist`)).json(),
@@ -15,7 +15,6 @@ export const api = {
   removeSymbol: async (symbol) =>
     (await fetch(`${BASE}/api/watchlist/${symbol}`, { method: 'DELETE' })).json(),
 
-  // 数据相关
   getEarnings: async (symbol) => (await fetch(`${BASE}/api/earnings/${symbol}`)).json(),
   getCalendarBySymbol: async (symbol) => (await fetch(`${BASE}/api/calendar/${symbol}`)).json(),
   getCalendarAll: async () => (await fetch(`${BASE}/api/calendar`)).json(),
