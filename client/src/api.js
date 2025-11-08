@@ -1,4 +1,4 @@
-const BASE = 'http://localhost:5050/api';
+const BASE = "http://47.113.105.56:5050";
 
 export const api = {
   getWatchlist: async () => (await fetch(`${BASE}/watchlist`)).json(),
