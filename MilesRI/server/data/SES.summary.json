@@ -1,0 +1,16 @@
+{
+  "timestamp": 1762547913759,
+  "data": {
+    "symbol": "SES",
+    "lastReportDate": "2025-11-05",
+    "fiscalDateEnding": "2025-09-30",
+    "reportedEPS": -0.06,
+    "estimatedEPS": -0.0398,
+    "surprise": -50.7538,
+    "reportedRevenue": null,
+    "estimatedRevenue": null,
+    "revenueSurprise": null,
+    "nextEarningsDate": "2026-02-16",
+    "aiCode": "miss"
+  }
+}

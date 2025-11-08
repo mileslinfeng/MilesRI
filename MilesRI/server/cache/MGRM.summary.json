@@ -1,0 +1,16 @@
+{
+  "timestamp": 1762540900701,
+  "data": {
+    "symbol": "MGRM",
+    "lastReportDate": "2025-08-15",
+    "fiscalDateEnding": "2025-06-30",
+    "reportedEPS": -0.125,
+    "estimatedEPS": -0.11,
+    "surprise": -13.6364,
+    "reportedRevenue": 0,
+    "estimatedRevenue": null,
+    "revenueSurprise": null,
+    "nextEarningsDate": "2025-11-14",
+    "aiCode": "miss"
+  }
+}

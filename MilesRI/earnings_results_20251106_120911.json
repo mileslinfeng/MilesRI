@@ -1,0 +1,14 @@
+{
+  "AAPL": {
+    "AlphaVantage": true,
+    "Finnhub": true,
+    "FMP": false,
+    "EODHD": false
+  },
+  "NVDA": {
+    "AlphaVantage": true,
+    "Finnhub": true,
+    "FMP": false,
+    "EODHD": false
+  }
+}
